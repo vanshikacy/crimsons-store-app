@@ -7,8 +7,8 @@ export default function Error(props){
 
     useEffect(()=>{
         console.log(error)
-}, [error])
-}
+}, [error]);
+
 
 return(
     <div>
@@ -18,4 +18,6 @@ return(
         <button>Home</button>
         </Link>
     </div>
-)
+
+);
+}
