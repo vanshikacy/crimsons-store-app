@@ -20,11 +20,11 @@ Crimsons is a personal e-commerce project where I showcase a small, curated coll
 📌 **Getting Started:**  
 
 1. Clone the repository:  
-git clone https://github.com/vanshikacy/crimsons-store-app.git
+git clone https://github.com/vanshikacy/crimsons-store-app.git <br>
 npm install # or yarn
 
 2. Install dependencies:
-NEXT_PUBLIC_STRIPE_KEY=your_stripe_public_key
+NEXT_PUBLIC_STRIPE_KEY=your_stripe_public_key <br>
 NEXT_PUBLIC_BASE_URL=your_app_url
 
 3. Set environment variables:
@@ -34,5 +34,6 @@ Run the development server:
 npm run dev # or yarn dev
 
 ✨ Usage: Browse curated luxury products, manage your cart, checkout securely with Stripe, and optionally submit your email for future newsletters (an add-on I may possibly work on in the future).
+
 
 
