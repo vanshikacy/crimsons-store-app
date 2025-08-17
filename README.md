@@ -24,7 +24,7 @@ git clone https://github.com/vanshikacy/crimsons-store-app.git
 
 2. Install dependencies:<br>
 npm install<br>
-# or <br>
+or <br>
 yarn
 
 
@@ -34,10 +34,11 @@ NEXT_PUBLIC_BASE_URL=your_app_url
 
 4. Run the development server: <br>
 npm run dev <br>
-# or <br>
+or <br>
 yarn dev
 
 ✨ Usage: Browse curated luxury products, manage your cart, checkout securely with Stripe, and optionally submit your email for future newsletters (an add-on I may possibly work on in the future).
+
 
 
 
